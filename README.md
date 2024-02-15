@@ -39,3 +39,8 @@
 </div>
 
 ###
+
+<pre><span class="pl-c">// Which came first: the chicken or the egg?</span>
+<span class="pl-smi">console</span><span class="pl-kos">.</span><span class="pl-en">log</span><span class="pl-kos">(</span><span class="pl-kos">[</span><span class="pl-s">'🥚'</span><span class="pl-kos">,</span> <span class="pl-s">'🐣'</span><span class="pl-kos">,</span> <span class="pl-s">'🐥'</span><span class="pl-kos">,</span> <span class="pl-s">'🐔'</span><span class="pl-kos">]</span><span class="pl-kos">.</span><span class="pl-en">sort</span><span class="pl-kos">(</span><span class="pl-kos">)</span><span class="pl-kos">)</span>
+
+<span class="pl-c1">&gt;&gt;&gt;</span> <span class="pl-kos">[</span> <span class="pl-s">'🐔'</span><span class="pl-kos">,</span> <span class="pl-s">'🐣'</span><span class="pl-kos">,</span> <span class="pl-s">'🐥'</span><span class="pl-kos">,</span> <span class="pl-s">'🥚'</span> <span class="pl-kos">]</span></pre>
