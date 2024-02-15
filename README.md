@@ -1,18 +1,9 @@
-### Hello! 👋 My Name is Abdallah, Welcome To My Github Profile ♥
+<h1 align="center">Hi 👋, I'm Abdallah</h1>
+<h3 align="center">I'm Abdallah Ossama from Egypt, a Computer Science college student with a passion for front-end development. I thoroughly enjoy exploring programming language.</h3>
 
-### 🚀 About Me
-I'm Abdallah Ossama from Egypt, a
-Computer Science college student 
-with a passion for front-end development. 
-I thoroughly enjoy 
-exploring programming language.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-![49e76e0596857673c5c80c85b84394c1](https://github.com/Abdallahossama/Abdallahossama/assets/125943489/d6d75d3e-3d29-4fa0-81dc-1fd7f9b6efb2)
-![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966](https://github.com/Abdallahossama/Abdallahossama/assets/125943489/72796cf6-b494-41a1-84f0-40460c335a47)
-
-### Fun fact: I once solved the world's oldest question with a single line of JavaScript :"D
-
-// Which came first: the chicken or the egg?
-console.log(['🥚', '🐣', '🐥', '🐔'].sort())
-
->>> [ '🐔', '🐣', '🐥', '🥚' ]
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
