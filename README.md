@@ -1,4 +1,4 @@
-### Hello! 👋 My Name is Amr, Welcome To My Github Profile ♥
+### Hello! 👋 My Name is Abdallah, Welcome To My Github Profile ♥
 
 ###🚀 About Me
 I'm Abdallah Ossama from Egypt, a Computer Science college student with a passion for front-end development. I thoroughly enjoy exploring programming language.
