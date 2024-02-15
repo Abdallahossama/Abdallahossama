@@ -39,9 +39,9 @@
 </div>
 
 ###
+<h5 align="left">Fun fact: I once solved the world's oldest question with a single line of JavaScript :"D</h5>
 
 <pre><span class="pl-c">// Which came first: the chicken or the egg?</span>
-  <br clear="both">
 <span class="pl-smi">console</span><span class="pl-kos">.</span><span class="pl-en">log</span><span class="pl-kos">(</span><span class="pl-kos">[</span><span class="pl-s">'🥚'</span><span class="pl-kos">,</span> <span class="pl-s">'🐣'</span><span class="pl-kos">,</span> <span class="pl-s">'🐥'</span><span class="pl-kos">,</span> <span class="pl-s">'🐔'</span><span class="pl-kos">]</span><span class="pl-kos">.</span><span class="pl-en">sort</span><span class="pl-kos">(</span><span class="pl-kos">)</span><span class="pl-kos">)</span>
 
 <span class="pl-c1">&gt;&gt;&gt;</span> <span class="pl-kos">[</span> <span class="pl-s">'🐔'</span><span class="pl-kos">,</span> <span class="pl-s">'🐣'</span><span class="pl-kos">,</span> <span class="pl-s">'🐥'</span><span class="pl-kos">,</span> <span class="pl-s">'🥚'</span> <span class="pl-kos">]</span></pre>
