@@ -39,6 +39,7 @@
 </div>
 
 ###
+<br clear="both">
 <h4 align="left">Fun fact: I once solved the world's oldest question with a single line of JavaScript :"D</h4>
 
 <pre><span class="pl-c">// Which came first: the chicken or the egg?</span>
