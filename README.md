@@ -35,4 +35,3 @@ Building a real-time collaborative app to go deeper on WebSockets, backend autho
 
 ---
 
-![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdallahossama&show_icons=true&theme=default&hide_border=true)
