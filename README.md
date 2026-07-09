@@ -22,4 +22,6 @@ I take ideas from architecture to production: frontend, APIs, AI integration, an
 **Tools:** Docker · Git · CI/CD
 
 ---
-
+📫 [LinkedIn](https://www.linkedin.com/in/abdullah-osama-48460b265/) ·· abdallah.ossama007@gmail.com
+ 
+ 
