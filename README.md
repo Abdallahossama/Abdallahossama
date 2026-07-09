@@ -31,7 +31,7 @@ Building a real-time collaborative app to go deeper on WebSockets, backend autho
 
 ### 📫 Reach me
 
-[LinkedIn](https://www.linkedin.com/in/abdullah-osama-48460b265/) · [coachmind.fit](https://coachmind.fit) · abdallah.ossama007@gmail.com
+[LinkedIn](https://www.linkedin.com/in/abdullah-osama-48460b265/) · abdallah.ossama007@gmail.com
 
 ---
 
